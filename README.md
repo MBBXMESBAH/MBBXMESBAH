@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MBBXMESBAH&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MBBXMESBAH&theme=react-dark" />
 </p>
 
 ---
