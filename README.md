@@ -1,18 +1,11 @@
 <!-- Profile Image -->
 <p align="center">
-  <div style="
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    overflow:hidden;
-    display:inline-block;
-  ">
-    <img 
-      src="https://graph.facebook.com/100004395614019/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
-      style="width:100%; height:100%; object-fit:cover;"
-      alt="Profile Picture"
-    >
-  </div>
+  <img
+    src="https://graph.facebook.com/100004395614019/picture?type=large&width=500&height=500"
+    width="200"
+    height="200"
+    style="border-radius: 50%;"
+  />
 </p>
 
 <!-- Heading -->
